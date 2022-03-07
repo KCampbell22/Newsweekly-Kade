@@ -9,7 +9,7 @@ img{
     padding: 0;
 }
 .row{
-    margin: 0;
+    padding-right: -15px !important;
 }
 .no-margin{
     margin: 0;
@@ -22,6 +22,14 @@ img{
 }
 .verticle-divider{
     border-right: 1px solid #f2f2f2;
+}
+#main-section{
+    margin-right: -15px !important;
+    margin-left: -15px!important;
+}
+.col-xs-12, .col-md-9, .row{
+    padding: 0px;
+    
 }
 
 .main-article{
