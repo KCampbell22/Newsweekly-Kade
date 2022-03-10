@@ -6,36 +6,24 @@ img{
     width: 100%;
 }
 .container-fluid{
-    padding: 0;
 }
-.row{
-    padding-right: -15px !important;
-}
+
 .no-margin{
     margin: 0;
 }
-.no-padding{
-    padding: 0;
-}
+
 .no-overflow{
     overflow: hidden;
 }
 .verticle-divider{
     border-right: 1px solid #f2f2f2;
 }
-#main-section{
-    margin-right: -15px !important;
-    margin-left: -15px!important;
-}
-.col-xs-12, .col-md-9, .row{
-    padding: 0px;
-    
-}
+
+
 
 .main-article{
     position: relative;
-    padding: 0;
-    margin: 0;
+    
 }
 #text-wrap{
     max-height: 100%;
@@ -54,7 +42,7 @@ img{
 
 }
 
-.main-A-text{
+.fA-text{
     color: red;
     font-size: 1.7rem;
 }
